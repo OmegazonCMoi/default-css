@@ -1,5 +1,3 @@
-Voici un exemple de README pour votre projet `default-css` :
-
 # default-css
 
 A Default CSS File to avoid re-creating the same variables multiple times for different projects.

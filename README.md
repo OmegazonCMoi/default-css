@@ -1,4 +1,4 @@
-# default-css
+# Default.css File
 
 A Default CSS File to avoid re-creating the same variables multiple times for different projects.
 
